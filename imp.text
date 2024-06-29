@@ -1,0 +1,23 @@
+GIL -> global interpreted lock
+python doesnot support concerrency
+
+goroutine ->
+- light weight thread
+- 1:1 with OS thread
+
+slice
+- array
+- list
+
+what is slice
+- slice is a view of an array
+- slice is a reference to an array
+- slice is a reference to a list
+- slice is a reference to a map
+- slice is a reference to a channel
+- slice is a reference to a struct
+- slice is a reference to a interface
+- slice is a reference to a function
+- slice is a reference to a pointer
+- slice is a reference to a map
+- slice is a reference to a channel
